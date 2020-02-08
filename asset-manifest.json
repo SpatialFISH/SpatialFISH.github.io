@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c4aa691.chunk.css",
+    "main.js": "/static/js/main.173c6c88.chunk.js",
+    "main.js.map": "/static/js/main.173c6c88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70302f69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70302f69.js.map",
+    "static/js/2.8991d8df.chunk.js": "/static/js/2.8991d8df.chunk.js",
+    "static/js/2.8991d8df.chunk.js.map": "/static/js/2.8991d8df.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31d54bdc6c7398a97241a5e22dcb8884.js": "/precache-manifest.31d54bdc6c7398a97241a5e22dcb8884.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6c4aa691.chunk.css.map": "/static/css/main.6c4aa691.chunk.css.map",
+    "static/js/2.8991d8df.chunk.js.LICENSE.txt": "/static/js/2.8991d8df.chunk.js.LICENSE.txt",
+    "static/media/dnakit-0.jpg": "/static/media/dnakit-0.119ce547.jpg",
+    "static/media/dnakit-1.jpg": "/static/media/dnakit-1.3037ca48.jpg",
+    "static/media/ish-0.png": "/static/media/ish-0.485d8da2.png",
+    "static/media/iss-0.jpg": "/static/media/iss-0.e0ad62cd.jpg",
+    "static/media/seq-0.png": "/static/media/seq-0.f0f0f86c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70302f69.js",
+    "static/js/2.8991d8df.chunk.js",
+    "static/css/main.6c4aa691.chunk.css",
+    "static/js/main.173c6c88.chunk.js"
+  ]
+}
